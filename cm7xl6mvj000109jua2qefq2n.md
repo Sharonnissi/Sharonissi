@@ -1,6 +1,6 @@
 ---
 title: "What Are Business Requirements and Why Does a Business Analyst Need to Take Them?"
-datePublished: Thu Mar 06 2025 16:54:11 GMT+0000 (Coordinated Universal Time)
+datePublished: Mon Nov 04 2024 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm7xl6mvj000109jua2qefq2n
 slug: what-are-business-requirements-and-why-does-a-business-analyst-need-to-take-them
 
